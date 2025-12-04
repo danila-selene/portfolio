@@ -1,0 +1,57 @@
+body{
+    background-color:#DED1BD;
+    text-align: center;
+}
+
+h1,h2,p{
+    font-family:"Century Gothic";
+}
+
+img{
+    width: 150px;
+    height: auto;  
+    margin-bottom: 10px;
+}
+
+div{    
+    background-color: #ceb199;
+    height: 400px;
+    padding-bottom: 30px;
+}
+
+section {
+    margin: 0.5px;
+    background-color: #ceb199;
+    height: 500px;
+
+}
+
+.Project{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+    background-color: #3a1c1c;
+    color: white;
+}  
+
+.Hackathons{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+    background-color: #3a1c1c;
+    color: white;
+}
+
+footer{
+    background-color: #ceb199;
+    text-align: left;    
+    height: 250px;
+}
